@@ -1,0 +1,48 @@
+name: Build Hostinger static site
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: hostinger-static
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build:hostinger
+      - run: npm run test:sites
+      - name: Publish ready-to-serve branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+          SOURCE_SHA: ${{ github.sha }}
+        shell: bash
+        run: |
+          gh auth setup-git
+          cd dist/hostinger
+          git init -b hostinger
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git remote add origin "https://github.com/${REPOSITORY}.git"
+          if git ls-remote --exit-code --heads origin hostinger >/dev/null; then
+            git fetch --depth=1 origin hostinger
+            git reset --soft FETCH_HEAD
+          fi
+          git add --all
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Build static site from ${SOURCE_SHA}"
+          git push origin HEAD:hostinger
+      - uses: actions/upload-artifact@v4
+        with:
+          name: CivicSubmittal-Hostinger
+          path: dist/hostinger/
+          include-hidden-files: true

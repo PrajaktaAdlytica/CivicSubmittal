@@ -1,0 +1,8 @@
+CONCEPT PREVIEW — DEMO — SYNTHETIC DATA
+10 fictional records
+Pending tasks: 3
+Blocked tasks: 3
+Completed tasks: 3
+Rejected suggestions: 1
+Stage counts: Scope checked 2; Packet QA 3; Applicant revision 3; Human submits 2.
+Completed tasks are not city approvals. No measured ROI or actual portfolio benchmark.

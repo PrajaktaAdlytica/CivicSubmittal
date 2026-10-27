@@ -1,0 +1,10 @@
+import {cpSync,existsSync,mkdirSync,rmSync} from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const target=path.join(root,'dist/hostinger');
+if(!existsSync(path.join(root,'dist/client/index.html')))throw new Error('Run npm run build first');
+rmSync(target,{recursive:true,force:true});mkdirSync(target,{recursive:true});
+cpSync(path.join(root,'dist/client'),target,{recursive:true});
+cpSync(path.join(root,'hosting/.htaccess'),path.join(target,'.htaccess'));
+console.log('Hostinger document root ready: dist/hostinger (includes .htaccess)');

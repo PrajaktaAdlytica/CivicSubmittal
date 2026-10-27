@@ -1,0 +1,16 @@
+Options -Indexes -MultiViews
+DirectoryIndex index.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule (^|/)\.(?!well-known(?:/|$)) - [F]
+  # Serve real files and directories normally.
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+  # Missing assets and APIs must not receive the app HTML.
+  RewriteRule ^(?:assets|brand|api)(?:/|$) - [L]
+  # Client-side routes must resolve when opened or refreshed directly.
+  RewriteCond %{REQUEST_METHOD} ^(?:GET|HEAD)$
+  RewriteRule ^ index.html [L]
+</IfModule>

@@ -1,0 +1,275 @@
+[
+  {
+    "route": "/",
+    "heading": "Bring order to every packet.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/problem",
+    "heading": "The packet is where\ncomplexity collects.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions",
+    "heading": "One packet.\nSeveral perspectives.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions/builders",
+    "heading": "Repeat work deserves\na considered process.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions/expediters",
+    "heading": "Coordinate the detail.\nKeep the source.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/solutions/architects",
+    "heading": "Your judgment.\nA clearer evidence trail.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products",
+    "heading": "Five focused tools.\nOne connected workflow.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/permit-desk",
+    "heading": "Start with the right scope",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/permit-review",
+    "heading": "Find the gap in the packet",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/permit-proof",
+    "heading": "Give every comment a response",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/permit-signal",
+    "heading": "Know what the next step depends on",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products/permit-report",
+    "heading": "Understand where the cycle stalls",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/platform",
+    "heading": "Five modules.\nOne source trail.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/features",
+    "heading": "Small details.\nClear decisions.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/coverage",
+    "heading": "Coverage starts\nwith a clear boundary.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/coverage/philadelphia/tenant-improvements",
+    "heading": "One city.\nA scope to verify.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/sources",
+    "heading": "Trace the requirement.\nKeep its context.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/results",
+    "heading": "Evidence before\noutcome claims.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/pricing",
+    "heading": "A specific packet.\nA testable commitment.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/pilot",
+    "heading": "Test one workflow.\nLearn from real work.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/request-demo",
+    "heading": "Your next packet.\nA precise starting point.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo",
+    "heading": "A real workflow.\nFictional records.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/queue",
+    "heading": "Every packet.\nA visible next step.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/projects/ti-107",
+    "heading": "TI-107 / Example Court fit-out",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/report",
+    "heading": "A clear view.\nA stated sample.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/company",
+    "heading": "Clarity before\nthe next submission.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/contact",
+    "heading": "Start a useful\nconversation.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/trust",
+    "heading": "Useful coordination.\nClear boundaries.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/integrations",
+    "heading": "Prepare here.\nSubmit with the authority.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources",
+    "heading": "Understand the work.\nFollow the evidence.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources/packet-readiness-story",
+    "heading": "One missing sheet. A traceable next step.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources/official-navigator-vs-packet-qa",
+    "heading": "Where navigation ends and packet work begins.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources/research-notes",
+    "heading": "A narrow first scope. A testable business.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/resources/freshness",
+    "heading": "A checked date is not an effective date.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/sign-in",
+    "heading": "Keep the packet.\nKeep the context.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/access-help",
+    "heading": "Keep the packet.\nKeep the context.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/legal/privacy",
+    "heading": "Privacy for the preview",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/legal/terms",
+    "heading": "Terms & responsibility",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/404",
+    "heading": "This route needs\na different turn.",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "route": "/",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/products",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/sources",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/pricing",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/request-demo",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/demo/projects/ti-107",
+    "overflow": false,
+    "pageWidth": 390,
+    "width": 390
+  }
+]

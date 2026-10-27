@@ -1,0 +1,43 @@
+{
+  "svg_files": 19,
+  "all_vector_paths_no_embedded_raster_or_text": true,
+  "png_sizes": [
+    16,
+    32,
+    48,
+    180,
+    192,
+    512
+  ],
+  "ico_sizes": [
+    16,
+    32,
+    48
+  ],
+  "desktop": {
+    "width": 1440,
+    "lenis_active": true,
+    "pin_progress": [
+      "01 / 04",
+      "04 / 04"
+    ],
+    "track_translation_px": [
+      -76.4234,
+      -392.659
+    ],
+    "button_hover_arrow_opacity": [
+      0,
+      1
+    ],
+    "card_hover_label_opacity": 1,
+    "reduced_motion_removes_pins": true
+  },
+  "mobile": {
+    "width": 390,
+    "horizontal_overflow": 0,
+    "pins": 0,
+    "selected_brand_persists_with_legacy_query": true,
+    "menu_to_product_navigation": "passed"
+  },
+  "runtime_warnings_and_errors": []
+}

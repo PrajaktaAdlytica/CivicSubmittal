@@ -1,0 +1,275 @@
+[
+  {
+    "route": "/",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Bring order to every packet."
+  },
+  {
+    "route": "/problem",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "The packet is wherecomplexity collects."
+  },
+  {
+    "route": "/solutions",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "One packet.Several perspectives."
+  },
+  {
+    "route": "/solutions/builders",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Repeat work deservesa considered process."
+  },
+  {
+    "route": "/solutions/expediters",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Coordinate the detail.Keep the source."
+  },
+  {
+    "route": "/solutions/architects",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Your judgment.A clearer evidence trail."
+  },
+  {
+    "route": "/products",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Five focused tools.One connected workflow."
+  },
+  {
+    "route": "/products/permit-desk",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Start with the right scope"
+  },
+  {
+    "route": "/products/permit-review",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Find the gap in the packet"
+  },
+  {
+    "route": "/products/permit-proof",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Give every comment a response"
+  },
+  {
+    "route": "/products/permit-signal",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Know what the next step depends on"
+  },
+  {
+    "route": "/products/permit-report",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Understand where the cycle stalls"
+  },
+  {
+    "route": "/platform",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Five modules.One source trail."
+  },
+  {
+    "route": "/features",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Small details.Clear decisions."
+  },
+  {
+    "route": "/coverage",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Coverage startswith a clear boundary."
+  },
+  {
+    "route": "/coverage/philadelphia/tenant-improvements",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "One city.A scope to verify."
+  },
+  {
+    "route": "/sources",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Trace the requirement.Keep its context."
+  },
+  {
+    "route": "/results",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Evidence beforeoutcome claims."
+  },
+  {
+    "route": "/pricing",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "A specific packet.A testable commitment."
+  },
+  {
+    "route": "/pilot",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Test one workflow.Learn from real work."
+  },
+  {
+    "route": "/request-demo",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Your next packet.A precise starting point."
+  },
+  {
+    "route": "/demo",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "A real workflow.Fictional records."
+  },
+  {
+    "route": "/demo/queue",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Every packet.A visible next step."
+  },
+  {
+    "route": "/demo/projects/ti-107",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "TI-107 / Example Court fit-out"
+  },
+  {
+    "route": "/demo/report",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "A clear view.A stated sample."
+  },
+  {
+    "route": "/company",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Clarity beforethe next submission."
+  },
+  {
+    "route": "/contact",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Start a usefulconversation."
+  },
+  {
+    "route": "/trust",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Useful coordination.Clear boundaries."
+  },
+  {
+    "route": "/integrations",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Prepare here.Submit with the authority."
+  },
+  {
+    "route": "/resources",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Understand the work.Follow the evidence."
+  },
+  {
+    "route": "/resources/packet-readiness-story",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "One missing sheet. A traceable next step."
+  },
+  {
+    "route": "/resources/official-navigator-vs-packet-qa",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Where navigation ends and packet work begins."
+  },
+  {
+    "route": "/resources/research-notes",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "A narrow first scope. A testable business."
+  },
+  {
+    "route": "/resources/freshness",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "A checked date is not an effective date."
+  },
+  {
+    "route": "/sign-in",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Keep the packet.Keep the context."
+  },
+  {
+    "route": "/access-help",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Keep the packet.Keep the context."
+  },
+  {
+    "route": "/legal/privacy",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Privacy for the preview"
+  },
+  {
+    "route": "/legal/terms",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "Terms & responsibility"
+  },
+  {
+    "route": "/404",
+    "brokenImages": [],
+    "main": 1,
+    "overflow": false,
+    "title": "This route needsa different turn."
+  }
+]
